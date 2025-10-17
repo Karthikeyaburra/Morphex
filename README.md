@@ -4,16 +4,14 @@ Multi-Modal Hexapod Robot capable of transforming seamlessly between a stable, s
 ![](images/morphex-image.png)
 
 
-Introduction
-Morphex is a fascinating project that explores the concept of multi-modal locomotion in robotics. It is a Multi-Modal Hexapod Robot capable of transforming seamlessly between two distinct forms:
+## ✨ Key Features
 
-A stable, six-legged walking configuration (Hexapod mode) for navigating complex terrain.
-
-A highly mobile, rolling spherical form (Ball/Spherical mode) for efficient movement across flat surfaces and rapid transit.
-
-This project focuses on the mechanics and control systems required for this unique transformation and motion.
-
-
+* **Seamless Transformation:** A unique mechanical design allows the robot to transition fluidly between its walking and rolling modes.
+* **Dual Locomotion:**
+    * **Hexapod Mode:** Provides stability and maneuverability for navigating rough, uneven, or cluttered terrain.
+    * **Spherical Mode (Rolling):** Enables high-speed, energy-efficient movement across flat, smooth surfaces.
+* **Modular CAD:** All design files are provided to allow for easy fabrication using 3D printing.
+* **(Placeholder: Specify Control System):** Controlled by a (e.g., Raspberry Pi/Arduino Mega) for complex gait planning and transformation kinematics.
 
 PROGRESS 
 ![](images/morphex-1.jpg)
